@@ -1,0 +1,15 @@
+/* #444444 */
+:root {
+    --color-primary: #618C82;
+    --color-primary-hover: #618C82;
+    --color-primary-text-hover: #618C82;
+    --color-border-primary: #618C82;
+}
+
+/* #444444 */
+:root {
+    --color-button-primary: #444444;
+}
+.name-sorted li a{
+    color: white;
+}
